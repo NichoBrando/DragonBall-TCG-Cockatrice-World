@@ -1,0 +1,92 @@
+[
+    {
+        "collectionName": "MANGA BOOSTER 01",
+        "collectionCode": "SB01",
+        "releaseDate": "2025-06-27"
+    },
+    {
+        "collectionName": "RIVALS CLASH",
+        "collectionCode": "FB06",
+        "releaseDate": "2025-05-02"
+    },
+    {
+        "collectionName": "NEW ADVENTURE",
+        "collectionCode": "FB05",
+        "releaseDate": "2025-02-14"
+    },
+    {
+        "collectionName": "ULTRA LIMIT",
+        "collectionCode": "FB04",
+        "releaseDate": "2024-11-15"
+    },
+    {
+        "collectionName": "RAGING ROAR",
+        "collectionCode": "FB03",
+        "releaseDate": "2024-08-16"
+    },
+    {
+        "collectionName": "BLAZING AURA",
+        "collectionCode": "FB02",
+        "releaseDate": "2024-05-10"
+    },
+    {
+        "collectionName": "AWAKENED PULSE",
+        "collectionCode": "FB01",
+        "releaseDate": "2024-02-16"
+    },
+    {
+        "collectionName": "STARTER DECK EX GIBLET",
+        "collectionCode": "FS10",
+        "releaseDate": "2025-06-13"
+    },
+    {
+        "collectionName": "STARTER DECK EX SHALLOT",
+        "collectionCode": "FS09",
+        "releaseDate": "2025-06-13"
+    },
+    {
+        "collectionName": "STARTER DECK VEGETA(MINI) SUPER SAIYAN 3",
+        "collectionCode": "FS08",
+        "releaseDate": "2025-04-25"
+    },
+    {
+        "collectionName": "STARTER DECK VEGETA(MINI)",
+        "collectionCode": "FS07",
+        "releaseDate": "2024-11-08"
+    },
+    {
+        "collectionName": "STARTER DECK SON GOKU(MINI)",
+        "collectionCode": "FS06",
+        "releaseDate": "2024-11-08"
+    },
+    {
+        "collectionName": "STARTER DECK BARDOCK",
+        "collectionCode": "FS05",
+        "releaseDate": "2024-08-09"
+    },
+    {
+        "collectionName": "STARTER DECK FRIEZA",
+        "collectionCode": "FS04",
+        "releaseDate": "2024-02-16"
+    },
+    {
+        "collectionName": "STARTER DECK BROLY",
+        "collectionCode": "FS03",
+        "releaseDate": "2024-02-16"
+    },
+    {
+        "collectionName": "STARTER DECK VEGETA",
+        "collectionCode": "FS02",
+        "releaseDate": "2024-02-16"
+    },
+    {
+        "collectionName": "STARTER DECK VEGETA",
+        "collectionCode": "FS01",
+        "releaseDate": "2024-02-16"
+    },
+    {
+        "collectionName": "PROMOTION CARD",
+        "collectionCode": "FP",
+        "releaseDate": "2024-02-16"
+    }
+]
